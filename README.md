@@ -31,9 +31,6 @@ HTML, CSS and vanilla JavaScript in a single index.html
 No backend and no build step
 Progress is stored in the browser's localStorage
 
-Run locally
-Clone the repo: git clone https://github.com/smiling-coder/infosys-career-cracker.git
-Open index.html in your browser.
 
 Deploy
 Push to GitHub, then open Settings → Pages, choose the main branch and / (root), and save.
