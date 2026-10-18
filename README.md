@@ -2,7 +2,6 @@
 Infosys Career Cracker
 A personal placement-prep coach for BCA students aiming for software roles, including Infosys. It tracks your real progress, plans each day around your weakest areas, and gives you an honest readiness score.
 
-Live demo: https://smiling-coder.github.io/infosys-career-cracker/
 
 Why I built it
 Most prep apps are course libraries or quiz banks. This one works like a coach: it asks what you need next, gives you a daily mission, makes you attempt things before showing answers, and never inflates your score.
