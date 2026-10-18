@@ -2,7 +2,7 @@
 
 A personal placement-prep coach for BCA students aiming for software roles, including Infosys. It tracks your real progress, plans each day around your weakest areas, and gives you an honest readiness score.
 
-🔗 **Live demo:** https://smiling-coder.github.io/infosys-career-cracker/
+🔗 **Live demo:** https://smiling-coder.github.io/My-First-website/
 
 ![Dashboard screenshot](screenshots/dashboard.png)
 
